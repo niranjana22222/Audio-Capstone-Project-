@@ -1,4 +1,4 @@
-# mini Audio Project
+# Mini Audio Project
 
 This is a minimal implementation of the Audio Project. It is designed to be easy to skim and to understand.
 There are some bells and whistles sacrificed here. E.g. you cannot easily delete a song from a database, the code 
